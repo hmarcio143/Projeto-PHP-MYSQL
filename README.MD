@@ -1,0 +1,1 @@
+Projeto feito com PHP e banco de dados MYSQL. Nesse projeto aprendi como fazer uma conexão PDO com MYSQL e como fazer as operações de CRUD(CREATE, UPDATE, READ, UPDATE E DELETE ). Foi usado também um pouco de HTML e CSS para ter interação do usuario com sistema. 
